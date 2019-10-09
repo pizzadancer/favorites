@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+
+.white-title {
+    color: white;
+    font-family: lobster;
+    text-align: center;
+}
+
+.smaller-image {
+    width: 15em;
+}
+
+.thick-white-border {
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 50%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box {
+    border-width: 5px;
+    text-align: center;
+    margin: 22px 200px 50px 200px
+}
